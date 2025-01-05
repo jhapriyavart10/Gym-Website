@@ -1,22 +1,22 @@
+<<<<<<< HEAD
 # MyGym Fitness website
-This website contains frontend for Mygym website, and technologies used are 
+A responsive gym website built with HTML, Bootstrap, and JavaScript. It showcases gym services, including classes, schedules, trainers, and pricing. The website is mobile-friendly, visually appealing, and offers a smooth user experience with an easy-to-navigate layout.
+
 * HTML    
  
-* CSS
+* CSS (BOOTSTRAP)
 
-* JS(BOOTSTRAP)
+* JS
 
 <br>
 
 #### Steps to Use:
-
 ---
 
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+git clone https://github.com/jhapriyavart10/Gym-Website.git
 
 - Go to the directory
 - Run the index.html file
@@ -27,5 +27,9 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 ![output2](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output2.png)
 
-![output2](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output3.png?raw=true)
+![output3](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output3.png?raw=true)
+
+![output4](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output3.png?raw=true)
+
+=======
 
