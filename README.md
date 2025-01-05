@@ -26,11 +26,11 @@ git clone https://github.com/jhapriyavart10/Gym-Website.git
 
 ![output1](https://github.com/jhapriyavart10/Gym-Website/blob/main/images/output/output1.png)
 
-![output2](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output2.png)
+![output2](https://github.com/jhapriyavart10/Gym-Website/blob/main/images/output/output2.png)
 
-![output3](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output3.png?raw=true)
+![output3](https://github.com/jhapriyavart10/Gym-Website/blob/main/images/output/output3.png)
 
-![output4](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output3.png?raw=true)
+![output4](https://github.com/jhapriyavart10/Gym-Website/blob/main/images/output/output4.png)
 
 =======
 
