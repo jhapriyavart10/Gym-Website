@@ -1,1 +1,2 @@
 # Gym-Website
+A responsive and interactive gym website built using HTML, Bootstrap, and JavaScript. The website provides an engaging and user-friendly interface to showcase gym services, including classes, schedules, trainers, and pricing. It is designed to be mobile-friendly and visually appealing, offering a smooth user experience. The website features a clean layout with well-organized content, making it easy for users to navigate through different sections such as class offerings, trainer details, and contact information.
